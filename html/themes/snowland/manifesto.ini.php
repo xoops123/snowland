@@ -5,7 +5,7 @@
 Name="snowland"
 Depends=Legacy_RenderSystem,legacy
 Url="http://xoops123.com/"
-Version="0.83"
+Version="0.84"
 
 [Theme]
 RenderSystem=Legacy_RenderSystem
